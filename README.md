@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/nishu-mehta-9025a323b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/NishuMehta">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mehtanishu018@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -24,7 +24,7 @@
 - 📊 **2x Data Analytics Intern**  
 - 🏗️ Building my **Portfolio Website**  
 - 📈 Working on **Stock Market Analysis & Forecasting**  
-- 🎯 **Currently Learning:** Java, DSA, React.js  
+- 🎯 **Currently Learning:** Python, Java, DSA, React.js  
 
 ---
 
@@ -43,6 +43,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 ---
 
@@ -61,6 +62,11 @@
 - 🔗 **Repo:** [GitHub Link](https://github.com/NishuMehta/portfolio-website)  
 - 🌐 **Live Site:** [Live Portfolio](#)  
 
+### **🍽️ PATO Place – Restaurant Website**
+- 🍕 **A stylish restaurant website for brand building & menu display**  
+- 🛠️ **Tech Used:** HTML, CSS, Bootstrap, JavaScript  
+- 🌍 **Live Demo:** [PATO Place](https://nishumehta.github.io/Pato-Place-Custom/)  
+- 🔗 **GitHub Repo:** [PATO Place Repo](https://github.com/NishuMehta/Pato-Place-Custom)  
 ---
 
 ## 📊 GitHub Stats  
@@ -77,10 +83,10 @@
 ---
 
 ## 🤝 Connect with Me  
-💬 Feel free to reach out if you have any questions or want to collaborate on a project!  
+<!-- 💬 Feel free to reach out if you have any questions or want to collaborate on a project!  
 📩 Email: mehtanishu018@gmail.com 
 🔗 LinkedIn: (https://www.linkedin.com/in/nishu-mehta-9025a323b/)  
-
+-->
 ---
 
 ⭐ **If you like my work, consider giving my repositories a star!** 🚀  
