@@ -67,8 +67,8 @@
 ### **🌐 Portfolio Website**  
 - 💻 **A showcase of my projects & skills**  
 - 🛠️ **Tech:** HTML, CSS, Bootstrap, JavaScript  
-- 🔗 **Repo:** [GitHub Link](https://github.com/NishuMehta/portfolio-website)  
-- 🌐 **Live Site:** [Live Portfolio](#)  
+- 🔗 **Repo:** [GitHub Link](https://github.com/NishuMehta/Portfolio)  
+- 🌐 **Live Site:** [Live Portfolio](https://nishumehta.github.io/PortfolioProject/)  
 
 ### **🍽️ PATO Place – Restaurant Website**
 - 🍕 **A stylish restaurant website for brand building & menu display**  
@@ -82,10 +82,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NishuMehta&show_icons=true&theme=radical" width="400px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishuMehta&theme=radical" width="400px">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishuMehta&layout=compact&theme=radical" width="400px">
 </p>
 
 ---
