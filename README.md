@@ -1,13 +1,10 @@
-<h1 align="center">Hi there, I'm Nishu Mehta 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://nishumehta.github.io/Portfolio/"> Nishu Mehta 👋 </a> &nbsp; </h1>
 
 <p align="center">
   🎓 3rd Year BTech CSE | 💻 Data Analyst | 🌐 Web Developer  
 </p>
 
 <p align="center">
-  <a href="https://nishumehta.github.io/Portfolio/">
-    PORTFOLIO
-  </a> &nbsp;
   <a href="https://www.linkedin.com/in/nishu-mehta-9025a323b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> &nbsp;
