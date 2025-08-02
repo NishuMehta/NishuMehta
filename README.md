@@ -19,12 +19,12 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **3rd Year BTech CSE Student**  
+- 🎓 **4th Year BTech CSE Student**  
 - 💡 Passionate about **Data Analytics, Web Development, and Machine Learning**  
 - 📊 **2x Data Analytics Intern**  
 - 🏗️ Building my **Portfolio Website**  
 - 📈 Working on **Stock Market Analysis & Forecasting**  
-- 🎯 **Currently Learning:** Python, Java, DSA, React.js  
+- 🎯 **Currently Learning:** Python, DSA, Tableau, React.js  
 
 ---
 
@@ -36,8 +36,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) &nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white) &nbsp;
 ![Seaborn](https://img.shields.io/badge/Seaborn-00758F?style=for-the-badge&logo=seaborn&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
@@ -55,14 +53,7 @@
 
 ---
 
-## 📌 Featured Projects  
-
-### **📊 Stock Market Analysis & Forecasting (Deep Learning)**  
-- 📅 **Analyzing Stock Market Trends (2014-2024)**  
-- 🛠️ **Tech:** Python, Pandas, NumPy, Matplotlib, PyTorch  
-- 📊 **Visualizations:** Plotly, Matplotlib  
-- 🔗 **Repo:** [GitHub Link](https://github.com/NishuMehta/stock-market-analysis)  
-- 🌐 **Live Demo:** [Live Link](#)  
+## 📌 Featured Projects   
 
 ### **🌐 Portfolio Website**  
 - 💻 **A showcase of my projects & skills**  
