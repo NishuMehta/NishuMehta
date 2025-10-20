@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://nishumehta.github.io/Portfolio/"> Nishu Mehta 👋 </a> &nbsp; </h1>
 
 <p align="center">
-  🎓 3rd Year BTech CSE | 💻 Data Analyst | 🌐 Web Developer  
+  🎓 Final Year BTech CSE | 💻 Data Analyst | 🌐 Web Developer  
 </p>
 
 <p align="center">
@@ -55,17 +55,27 @@
 
 ## 📌 Featured Projects   
 
-### **🌐 Portfolio Website**  
-- 💻 **A showcase of my projects & skills**  
-- 🛠️ **Tech:** HTML, CSS, Bootstrap, JavaScript  
-- 🔗 **Repo:** [GitHub Link](https://github.com/NishuMehta/Portfolio)  
-- 🌐 **Live Site:** [Live Portfolio](https://nishumehta.github.io/Portfolio/)  
+### **Portfolio Website**  
+-  **A showcase of my projects & skills**  
+-  **Tech:** HTML, CSS, Bootstrap, JavaScript  
+-  **Repo:** [GitHub Link](https://github.com/NishuMehta/Portfolio)  
+-  **Live Site:** [Live Portfolio](https://nishumehta.github.io/Portfolio/)
 
-### **🍽️ PATO Place – Restaurant Website**
-- 🍕 **A stylish restaurant website for brand building & menu display**  
-- 🛠️ **Tech Used:** HTML, CSS, Bootstrap, JavaScript  
-- 🌍 **Live Demo:** [PATO Place](https://nishumehta.github.io/Pato-Place-Custom/)  
-- 🔗 **GitHub Repo:** [PATO Place Repo](https://github.com/NishuMehta/Pato-Place-Custom)  
+### **Financial Statement Dashboard**
+-  **Financial Analysis provides insights into a company's sales, profits and cost metrics**  
+-  **Tech Used:** Microsoft Excel, Power BI  
+- 🔗 **GitHub Repo:** [Financial Analysis Dashboard](https://github.com/NishuMehta/Financial-Statement-Dashboard)
+
+### **Airbnb Market Analysis**
+-  **Explores Airbnb listing data to uncover trends in pricing, availability, and location across cities**  
+-  **Tech Used:** Python, Microsoft Excel, Power BI  
+- 🔗 **GitHub Repo:** [AIRBNB Market Analysis Dashboard](https://github.com/NishuMehta/Airbnb-Market-Analysis)
+
+### **NETFLIX Trends Analysis**
+-  **Financial Analysis providing insights into a company's sales, profit and cost metrics**  
+-  **Tech Used:** Microsoft Excel, Python, Tableau 
+- 🔗 **GitHub Repo:** [NETFLIX Trends Analysis Dashboard](https://github.com/NishuMehta/Netflix-Trends-Data-Analysis)
+  
 ---
 
 ## 📊 GitHub Stats  
